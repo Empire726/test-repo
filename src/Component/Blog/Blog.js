@@ -13,7 +13,7 @@ const Blog = () => {
                       <div className="col-lg-4" data-aos="zoom-in">
                           <div className="blog-item">
                               <div className="blog-img">
-                                  <img src="image/web1.webp" alt="Imag" />
+                                  <img src="Image/web1.webp" alt="Imag" />
                                   <div className="meta-date">
                                       <span>08</span>
                                       <strong>FEB</strong>
@@ -33,7 +33,7 @@ const Blog = () => {
                       <div className="col-lg-4" data-aos="zoom-in">
                           <div className="blog-item">
                               <div className="blog-img">
-                                  <img src="image/web2.webp" alt="Imag" />
+                                  <img src="Image/web2.webp" alt="Imag" />
                                   <div className="meta-date">
                                       <span>08</span>
                                       <strong>FEB</strong>
@@ -54,7 +54,7 @@ const Blog = () => {
                       <div className="col-lg-4" data-aos="zoom-in">
                           <div className="blog-item">
                               <div className="blog-img">
-                                  <img src="image/web3.webp" alt="Imag" />
+                                  <img src="Image/web3.webp" alt="Imag" />
                                   <div className="meta-date">
                                       <span>08</span>
                                       <strong>FEB</strong>
@@ -74,7 +74,7 @@ const Blog = () => {
                       <div className="col-lg-4" data-aos="zoom-in">
                           <div className="blog-item">
                               <div className="blog-img">
-                                  <img src="image/web4.webp" alt="Imag" />
+                                  <img src="Image/web4.webp" alt="Imag" />
                                   <div className="meta-date">
                                       <span>08</span>
                                       <strong>FEB</strong>
@@ -94,7 +94,7 @@ const Blog = () => {
                       <div className="col-lg-4" data-aos="zoom-in">
                           <div className="blog-item">
                               <div className="blog-img">
-                                  <img src="image/web5.webp" alt="Imag" />
+                                  <img src="Image/web5.webp" alt="Imag" />
                                   <div className="meta-date">
                                       <span>08</span>
                                       <strong>FEB</strong>
@@ -114,7 +114,7 @@ const Blog = () => {
                       <div className="col-lg-4" data-aos="zoom-in">
                           <div className="blog-item">
                               <div className="blog-img">
-                                  <img src="image/web6.webp" alt="Imag" />
+                                  <img src="Image/web6.webp" alt="Imag" />
                                   <div className="meta-date">
                                       <span>08</span>
                                       <strong>FEB</strong>

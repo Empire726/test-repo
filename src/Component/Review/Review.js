@@ -13,7 +13,7 @@ const Review = () => {
                       <div className="col-lg-4" data-aos="fade-in">
                           <div className="blog-item">
                               <div className="blog-img">
-                                  <img src="image/web11.webp" alt="Imag" />
+                                  <img src="Image/web11.webp" alt="Imag" />
                                  
                               </div>
                               <div className="blog-text">
@@ -25,7 +25,7 @@ const Review = () => {
                       <div className="col-lg-4" data-aos="fade-in">
                           <div className="blog-item">
                               <div className="blog-img">
-                                  <img src="image/web12.webp" alt="Imag" />
+                                  <img src="Image/web12.webp" alt="Imag" />
                                  
                               </div>
                               <div className="blog-text">
@@ -37,7 +37,7 @@ const Review = () => {
                       <div className="col-lg-4" data-aos="fade-in">
                           <div className="blog-item">
                               <div className="blog-img">
-                                  <img src="image/web13.webp" alt="Imag" />
+                                  <img src="Image/web13.webp" alt="Imag" />
                                  
                               </div>
                               <div className="blog-text">
@@ -49,7 +49,7 @@ const Review = () => {
                       <div className="col-lg-4" data-aos="fade-in">
                           <div className="blog-item">
                               <div className="blog-img">
-                                  <img src="image/web14.jpg" alt="Imag" />
+                                  <img src="Image/web14.jpg" alt="Imag" />
                                  
                               </div>
                               <div className="blog-text">
@@ -61,7 +61,7 @@ const Review = () => {
                       <div className="col-lg-4" data-aos="fade-in">
                           <div className="blog-item">
                               <div className="blog-img">
-                                  <img src="image/web15.webp" alt="Imag" />
+                                  <img src="Image/web15.webp" alt="Imag" />
                                  
                               </div>
                               <div className="blog-text">
@@ -73,7 +73,7 @@ const Review = () => {
                       <div className="col-lg-4" data-aos="fade-in">
                           <div className="blog-item">
                               <div className="blog-img">
-                                  <img src="image/web16.webp" alt="Imag" />
+                                  <img src="Image/web16.webp" alt="Imag" />
                                  
                               </div>
                               <div className="blog-text">
