@@ -26,7 +26,7 @@ const Home = () => {
               <div className="carousel-text">
                 <h3>heading you define Study &amp; Detailing</h3>          
                 <p>
-                  Find Over<span id="1"> <CountUp isCounting end={250} duration={3.2} />+ Exams in India.</span>
+                  Find Over<span id="1"> <CountUp isCounting end={250} duration={3.2} />+ Products in India.</span>
                 </p>
                 <button href="/" className="btn btn-custom" >Explore More</button>
               </div>
